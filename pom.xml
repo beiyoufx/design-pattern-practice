@@ -22,6 +22,7 @@
     <modules>
         <module>factory</module>
         <module>abstract-factory</module>
+        <module>builder</module>
     </modules>
 
     <developers>
