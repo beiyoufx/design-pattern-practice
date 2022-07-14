@@ -15,7 +15,7 @@ import tech.suzaku.refine.logistics.ShunfengLogisticsAdapter;
 import static org.junit.Assert.*;
 
 /**
- * @author 无羡 2022-07-06
+ * @author TGG 2022-07-06
  */
 public class ShippingServiceImplTest {
 

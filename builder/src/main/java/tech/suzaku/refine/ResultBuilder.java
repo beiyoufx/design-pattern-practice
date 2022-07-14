@@ -10,7 +10,7 @@ package tech.suzaku.refine;
 import tech.suzaku.Result;
 
 /**
- * @author 无羡 2022-07-08
+ * @author TGG 2022-07-08
  */
 public class ResultBuilder<T> {
     private Result<T> result;

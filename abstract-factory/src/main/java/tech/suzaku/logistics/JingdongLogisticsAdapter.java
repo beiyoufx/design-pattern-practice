@@ -15,7 +15,7 @@ import java.util.UUID;
 /**
  * 京东物流订单服务
  *
- * @author 无羡 2022-07-06
+ * @author TGG 2022-07-06
  */
 public class JingdongLogisticsAdapter {
 

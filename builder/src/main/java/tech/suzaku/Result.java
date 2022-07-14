@@ -8,7 +8,7 @@
 package tech.suzaku;
 
 /**
- * @author 无羡 2022-07-08
+ * @author TGG 2022-07-08
  */
 public class Result<T> {
     private int code;

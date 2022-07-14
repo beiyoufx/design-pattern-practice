@@ -12,7 +12,7 @@ import tech.suzaku.logistics.JingdongLogisticsAdapter;
 import tech.suzaku.logistics.ShunfengLogisticsAdapter;
 
 /**
- * @author 无羡 2022-07-06
+ * @author TGG 2022-07-06
  */
 public class ShippingServiceTest {
 

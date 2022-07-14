@@ -17,7 +17,7 @@ import tech.suzaku.logistics.ShunfengLogisticsAdapter;
 /**
  * 发货服务
  *
- * @author 无羡 2022-07-06
+ * @author TGG 2022-07-06
  */
 public class ShippingServiceImpl implements ShippingService {
     private ShunfengLogisticsAdapter shunfengLogisticsAdapter;

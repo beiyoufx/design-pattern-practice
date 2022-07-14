@@ -10,7 +10,7 @@ package tech.suzaku.refine.bean;
 /**
  * 顺丰生鲜订单
  *
- * @author 无羡 2022-07-06
+ * @author TGG 2022-07-06
  */
 public class ShunfengFreshOrder extends ShunfengOrder {
     public ShunfengFreshOrder(String orderNo) {

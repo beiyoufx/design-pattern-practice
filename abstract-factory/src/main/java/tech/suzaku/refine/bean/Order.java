@@ -10,7 +10,7 @@ package tech.suzaku.refine.bean;
 /**
  * 订单抽象
  *
- * @author 无羡 2022-07-06
+ * @author TGG 2022-07-06
  */
 public interface Order {
     String getOrderNo();
