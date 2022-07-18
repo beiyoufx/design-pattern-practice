@@ -19,6 +19,8 @@ public class OpenServiceTest {
     @Test
     public void hello() {
         OpenService service = new OpenService();
+        OpenService service1 = new OpenService();
+        OpenService service2 = new OpenService();
         String result = service.hello("world");
         System.out.println(result);
     }

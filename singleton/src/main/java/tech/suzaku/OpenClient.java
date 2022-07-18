@@ -14,6 +14,7 @@ public class OpenClient {
     private OpenConfig config;
 
     public OpenClient(OpenConfig config) {
+        System.out.println("初始化客户端");
         this.config = config;
     }
 
