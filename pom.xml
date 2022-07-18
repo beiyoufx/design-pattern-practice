@@ -24,6 +24,7 @@
         <module>abstract-factory</module>
         <module>builder</module>
         <module>prototype</module>
+        <module>singleton</module>
     </modules>
 
     <developers>
