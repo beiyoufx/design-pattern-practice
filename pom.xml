@@ -25,6 +25,7 @@
         <module>builder</module>
         <module>prototype</module>
         <module>singleton</module>
+        <module>adapter</module>
     </modules>
 
     <developers>
